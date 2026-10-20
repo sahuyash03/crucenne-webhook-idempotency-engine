@@ -1,0 +1,13 @@
+{
+    "event_id": "evt_enterprise_sync_9941a8",
+    "source": "crucenne.billing.gateway",
+    "idempotency_key": "idemp_d41d8cd98f00b204e9800998ecf8427e",
+    "timestamp": "2026-10-20T10:58:00.000Z",
+    "payload": {
+        "account_id": "acc_tenant_corp_002",
+        "transaction_type": "LEDGER_RECONCILIATION",
+        "amount_in_cents": 4500000,
+        "currency": "USD",
+        "status": "SETTLED"
+    }
+}
